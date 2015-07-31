@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sport:content xmlns:sport="http://xml.sportsdirectinc.com/sport/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<team-sport-content>
+<sport>
+<id>/sport/baseball</id>
+<name>baseball</name>
+</sport>
+<league-content>
+<league>
+<id>/sport/baseball/league:1219</id>
+<name>Major League Baseball</name>
+<name type="nick">MLB</name>
+</league>
+<competition>
+<id>/sport/baseball/competition:383227</id>
+<start-date>2015-07-28T19:05:00.000-04:00</start-date>
+<result-scope>
+<competition-status>complete</competition-status>
+<scope type="inning" sub-type="top" num="9"/>
+<scope-status>complete</scope-status>
+<update-date>2015-07-28T22:07:50.000-04:00</update-date>
+</result-scope>
+<home-team-content>
+<team>
+<id>/sport/baseball/team:2959</id>
+<name>Baltimore</name>
+<name type="short">BAL</name>
+</team>
+<stat-group>
+<scope type="competition"/>
+<stat type="hits" num="9"/>
+<stat type="runs" num="7"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="1"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="1"/>
+<stat type="hits" num="2"/>
+<stat type="runs" num="3"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="2"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="2"/>
+<stat type="hits" num="3"/>
+<stat type="runs" num="2"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="3"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="3"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="4"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="4"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="5"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="5"/>
+<stat type="hits" num="2"/>
+<stat type="runs" num="1"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="6"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="6"/>
+<stat type="hits" num="2"/>
+<stat type="runs" num="1"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="7"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="7"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="8"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="8"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="9"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="9"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+</home-team-content>
+<away-team-content>
+<team>
+<id>/sport/baseball/team:2957</id>
+<name>Atlanta</name>
+<name type="short">ATL</name>
+</team>
+<stat-group>
+<scope type="competition"/>
+<stat type="hits" num="8"/>
+<stat type="runs" num="3"/>
+<stat type="errors" num="1"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="1"/>
+<stat type="hits" num="4"/>
+<stat type="runs" num="2"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="1"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="2"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="2"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="3"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="3"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="4"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="4"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="5"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="5"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="6"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="6"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="7"/>
+<stat type="hits" num="0"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="7"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="8"/>
+<stat type="hits" num="3"/>
+<stat type="runs" num="1"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="8"/>
+<stat type="errors" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="top" num="9"/>
+<stat type="hits" num="1"/>
+<stat type="runs" num="0"/>
+</stat-group>
+<stat-group>
+<scope type="inning" sub-type="bottom" num="9"/>
+<stat type="errors" num="0"/>
+</stat-group>
+</away-team-content>
+<competition-state xsi:type="sport:baseball-competition-state">
+<current-pitcher>
+<id>/sport/baseball/player:105570</id>
+<name type="first">Chaz</name>
+<name type="last">Roe</name>
+</current-pitcher>
+<current-batter>
+<id>/sport/baseball/player:107109</id>
+<name type="first">Freddie</name>
+<name type="last">Freeman</name>
+</current-batter>
+<outs>0</outs>
+<ball-count>0</ball-count>
+<strike-count>0</strike-count>
+<runner-on-first>false</runner-on-first>
+<runner-on-second>false</runner-on-second>
+<runner-on-third>false</runner-on-third>
+</competition-state>
+</competition>
+</league-content>
+</team-sport-content>
+</sport:content>
